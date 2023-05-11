@@ -1,0 +1,60 @@
+C:\Users\user\Desktop\TechnestHackhaton\src\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\user\Desktop\TechnestHackhaton\src\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\user\Desktop\TechnestHackhaton\src\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TechnestHackhaton\src\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\TechnestHackhaton\src\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\TechnestHackhaton\src\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\TechnestHackhaton\src\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TechnestHackhaton\src\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\user\Desktop\TechnestHackhaton\src\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\user\Desktop\New folder (4)\src\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\user\Desktop\New folder (4)\src\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\user\Desktop\New folder (4)\src\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\user\Desktop\New folder (4)\src\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\New folder (4)\src\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\New folder (4)\src\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New folder (4)\src\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\New folder (4)\src\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder (4)\src\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\user\Desktop\New folder (4)\src\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\user\Desktop\New folder (4)\src\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\user\Desktop\New folder (4)\src\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\User\Desktop\CreditCardProject\src\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\User\Desktop\CreditCardProject\src\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\User\Desktop\CreditCardProject\src\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\User\Desktop\CreditCardProject\src\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CreditCardProject\src\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CreditCardProject\src\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CreditCardProject\src\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\CreditCardProject\src\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CreditCardProject\src\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\User\Desktop\CreditCardProject\src\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\User\Desktop\CreditCardProject\src\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\User\Desktop\CreditCardProject\src\Domain\obj\Debug\net7.0\ref\Domain.dll

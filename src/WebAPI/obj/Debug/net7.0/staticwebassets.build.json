@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "ZnGcLgWkPp6XcRHA5CvUF79vZa7jAt1V3MjwDq+HwNk=",
+  "Source": "WebAPI",
+  "BasePath": "_content/WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAPI\\wwwroot",
+      "Source": "WebAPI",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\CreditCardProject\\src\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

@@ -1,0 +1,195 @@
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\WebAPI.deps.json
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\WebAPI.runtimeconfig.json
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\appsettings.Development.json
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\appsettings.json
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\WebAPI.staticwebassets.runtime.json
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\WebAPI.exe
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\WebAPI.dll
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\FluentValidation.AspNetCore.dll
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\Application.dll
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\MediatR.dll
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\Infrastructure.dll
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\FluentValidation.dll
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\MediatR.Contracts.dll
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\Domain.dll
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\Microsoft.Extensions.Identity.Core.dll
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\AutoMapper.dll
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\WebAPI.pdb
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\Application.pdb
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\Infrastructure.pdb
+C:\Users\user\Desktop\TechnestHackhaton\bin\Debug\Domain.pdb
+C:\Users\user\Desktop\TechnestHackhaton\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\user\Desktop\TechnestHackhaton\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TechnestHackhaton\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\WebAPI.deps.json
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\WebAPI.runtimeconfig.json
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\appsettings.Development.json
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\appsettings.json
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\WebAPI.staticwebassets.runtime.json
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\WebAPI.exe
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\WebAPI.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\FluentValidation.AspNetCore.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\Application.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\MediatR.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\Infrastructure.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\FluentValidation.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\MediatR.Contracts.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\Domain.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\Microsoft.Extensions.Identity.Core.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\AutoMapper.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\WebAPI.pdb
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\Application.pdb
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\Infrastructure.pdb
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\bin\Debug\Domain.pdb
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\Users\user\Desktop\New folder (4)\bin\Debug\WebAPI.deps.json
+C:\Users\user\Desktop\New folder (4)\bin\Debug\WebAPI.runtimeconfig.json
+C:\Users\user\Desktop\New folder (4)\bin\Debug\appsettings.Development.json
+C:\Users\user\Desktop\New folder (4)\bin\Debug\appsettings.json
+C:\Users\user\Desktop\New folder (4)\bin\Debug\WebAPI.staticwebassets.runtime.json
+C:\Users\user\Desktop\New folder (4)\bin\Debug\WebAPI.exe
+C:\Users\user\Desktop\New folder (4)\bin\Debug\WebAPI.dll
+C:\Users\user\Desktop\New folder (4)\bin\Debug\FluentValidation.AspNetCore.dll
+C:\Users\user\Desktop\New folder (4)\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\New folder (4)\bin\Debug\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Desktop\New folder (4)\bin\Debug\Application.dll
+C:\Users\user\Desktop\New folder (4)\bin\Debug\MediatR.dll
+C:\Users\user\Desktop\New folder (4)\bin\Debug\Infrastructure.dll
+C:\Users\user\Desktop\New folder (4)\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\New folder (4)\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\New folder (4)\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\New folder (4)\bin\Debug\FluentValidation.dll
+C:\Users\user\Desktop\New folder (4)\bin\Debug\MediatR.Contracts.dll
+C:\Users\user\Desktop\New folder (4)\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\New folder (4)\bin\Debug\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\user\Desktop\New folder (4)\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\New folder (4)\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\New folder (4)\bin\Debug\Domain.dll
+C:\Users\user\Desktop\New folder (4)\bin\Debug\Microsoft.Extensions.Identity.Core.dll
+C:\Users\user\Desktop\New folder (4)\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\New folder (4)\bin\Debug\AutoMapper.dll
+C:\Users\user\Desktop\New folder (4)\bin\Debug\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\Desktop\New folder (4)\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\Desktop\New folder (4)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\New folder (4)\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\New folder (4)\bin\Debug\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\user\Desktop\New folder (4)\bin\Debug\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\user\Desktop\New folder (4)\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\New folder (4)\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\New folder (4)\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\New folder (4)\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\New folder (4)\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\user\Desktop\New folder (4)\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\New folder (4)\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\user\Desktop\New folder (4)\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\New folder (4)\bin\Debug\WebAPI.pdb
+C:\Users\user\Desktop\New folder (4)\bin\Debug\Application.pdb
+C:\Users\user\Desktop\New folder (4)\bin\Debug\Infrastructure.pdb
+C:\Users\user\Desktop\New folder (4)\bin\Debug\Domain.pdb
+C:\Users\user\Desktop\New folder (4)\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\user\Desktop\New folder (4)\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder (4)\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\Users\user\Desktop\New folder (4)\bin\Debug\MimeKit.dll
+C:\Users\user\Desktop\New folder (4)\bin\Debug\MailKit.dll
+C:\Users\user\Desktop\New folder (4)\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\WebAPI.deps.json
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\WebAPI.runtimeconfig.json
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\appsettings.Development.json
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\appsettings.json
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\WebAPI.staticwebassets.runtime.json
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\WebAPI.exe
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\WebAPI.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\FluentValidation.AspNetCore.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\Application.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\MediatR.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\Infrastructure.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\FluentValidation.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\MediatR.Contracts.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\Domain.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\AutoMapper.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\MimeKit.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\MailKit.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\Twilio.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\WebAPI.pdb
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\Application.pdb
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\Infrastructure.pdb
+C:\Users\User\Desktop\CreditCardProject\bin\Debug\Domain.pdb
+C:\Users\User\Desktop\CreditCardProject\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\User\Desktop\CreditCardProject\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CreditCardProject\obj\Debug\docker-compose.dcproj.CopyComplete

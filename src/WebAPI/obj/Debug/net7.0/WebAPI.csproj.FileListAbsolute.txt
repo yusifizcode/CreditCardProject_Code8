@@ -1,0 +1,538 @@
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\WebAPI.exe
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\WebAPI.deps.json
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\WebAPI.runtimeconfig.json
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\WebAPI.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\WebAPI.pdb
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Application.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Domain.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Application.pdb
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Domain.pdb
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\WebAPI.AssemblyInfo.cs
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAPI.props
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\WebAPI.csproj.CopyComplete
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\WebAPI.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\refint\WebAPI.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\WebAPI.pdb
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\WebAPI.genruntimeconfig.cache
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\ref\WebAPI.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\MediatR.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\WebAPI.staticwebassets.runtime.json
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\user\Desktop\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\WebAPI.staticwebassets.runtime.json
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\WebAPI.exe
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\WebAPI.deps.json
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\WebAPI.runtimeconfig.json
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\WebAPI.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\WebAPI.pdb
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\MediatR.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Application.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Domain.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Application.pdb
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\bin\Debug\net7.0\Domain.pdb
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\WebAPI.AssemblyInfo.cs
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAPI.props
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\WebAPI.csproj.CopyComplete
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\WebAPI.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\refint\WebAPI.dll
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\WebAPI.pdb
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\WebAPI.genruntimeconfig.cache
+C:\Users\rehh2\OneDrive\Masaüstü\TechnestHackhaton\src\WebAPI\obj\Debug\net7.0\ref\WebAPI.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\WebAPI.staticwebassets.runtime.json
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\WebAPI.exe
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\WebAPI.deps.json
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\WebAPI.runtimeconfig.json
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\WebAPI.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\WebAPI.pdb
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\MediatR.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Application.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Domain.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Application.pdb
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Domain.pdb
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\obj\Debug\net7.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\obj\Debug\net7.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\obj\Debug\net7.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\obj\Debug\net7.0\WebAPI.AssemblyInfo.cs
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\obj\Debug\net7.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\obj\Debug\net7.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\obj\Debug\net7.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAPI.props
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\obj\Debug\net7.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\obj\Debug\net7.0\WebAPI.csproj.CopyComplete
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\obj\Debug\net7.0\WebAPI.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\obj\Debug\net7.0\refint\WebAPI.dll
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\obj\Debug\net7.0\WebAPI.pdb
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\obj\Debug\net7.0\WebAPI.genruntimeconfig.cache
+C:\Users\User\Desktop\Hackaton\CreditCardProject\src\WebAPI\obj\Debug\net7.0\ref\WebAPI.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\WebAPI.staticwebassets.runtime.json
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\WebAPI.exe
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\WebAPI.deps.json
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\WebAPI.runtimeconfig.json
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\WebAPI.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\WebAPI.pdb
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\MediatR.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Application.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Domain.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Application.pdb
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Domain.pdb
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\obj\Debug\net7.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\obj\Debug\net7.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\obj\Debug\net7.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\obj\Debug\net7.0\WebAPI.AssemblyInfo.cs
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\obj\Debug\net7.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\obj\Debug\net7.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\obj\Debug\net7.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAPI.props
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\obj\Debug\net7.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\obj\Debug\net7.0\WebAPI.csproj.CopyComplete
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\obj\Debug\net7.0\WebAPI.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\obj\Debug\net7.0\refint\WebAPI.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\obj\Debug\net7.0\WebAPI.pdb
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\obj\Debug\net7.0\WebAPI.genruntimeconfig.cache
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\obj\Debug\net7.0\ref\WebAPI.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\MailKit.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\MimeKit.dll
+C:\Users\user\Desktop\New folder (4)\src\WebAPI\bin\Debug\net7.0\Twilio.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\WebAPI.staticwebassets.runtime.json
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\WebAPI.exe
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\WebAPI.deps.json
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\WebAPI.runtimeconfig.json
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\WebAPI.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\WebAPI.pdb
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\MailKit.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\MediatR.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\MimeKit.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Twilio.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Application.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Domain.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Application.pdb
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\bin\Debug\net7.0\Domain.pdb
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\obj\Debug\net7.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\obj\Debug\net7.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\obj\Debug\net7.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\obj\Debug\net7.0\WebAPI.AssemblyInfo.cs
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\obj\Debug\net7.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\obj\Debug\net7.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\obj\Debug\net7.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAPI.props
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\obj\Debug\net7.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\obj\Debug\net7.0\WebAPI.csproj.CopyComplete
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\obj\Debug\net7.0\WebAPI.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\obj\Debug\net7.0\refint\WebAPI.dll
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\obj\Debug\net7.0\WebAPI.pdb
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\obj\Debug\net7.0\WebAPI.genruntimeconfig.cache
+C:\Users\User\Desktop\CreditCardProject\src\WebAPI\obj\Debug\net7.0\ref\WebAPI.dll

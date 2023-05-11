@@ -1,0 +1,28 @@
+version: '3.9'
+
+services:
+  webapi.db:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    networks:
+      - network1
+  webapi:
+    image: ${DOCKER_REGISTRY-}webapi
+    networks:
+      - network1
+    build:
+      context: .
+      dockerfile: src/WebAPI/Dockerfile
+volumes:
+  webapi_database_volume:
+
+networks:
+  network1:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.22.0.0/24
+          gateway: 172.22.0.1
+
+
+          
+ 

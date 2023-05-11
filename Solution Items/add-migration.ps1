@@ -1,0 +1,1 @@
+dotnet ef migrations add Initialize_$(Get-Date -Format "ddMMyyyHHmmss")  --context TechnestHackhatonDbContext --project .\src\Infrastructure --startup-project  .\src\WebAPI --output-dir  Migrations

@@ -1,0 +1,74 @@
+name: dockercompose1693723854856352038
+services:
+  webapi:
+    build:
+      context: C:\Users\user\Desktop\TechnestHackhaton
+      dockerfile: src/WebAPI/Dockerfile
+    container_name: webapi
+    depends_on:
+      webapi.db:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTPS_PORT: "5000"
+      ASPNETCORE_URL: ""
+      ASPNETCORE_URLS: https://+:443;http://+:80
+      DB_HOST: webapi.db
+      DB_NAME: webapi
+      DB_PASSWORD: Pa$$word1
+    image: webapi
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+    - mode: ingress
+      target: 443
+      published: "7025"
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: C:\Users\user\AppData\Roaming/Microsoft/UserSecrets
+      target: /root/.microsoft/usersecrets
+      read_only: true
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\user\AppData\Roaming/ASP.NET/Https
+      target: /root/.aspnet/https
+      read_only: true
+      bind:
+        create_host_path: true
+  webapi.db:
+    container_name: webapi.db
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: Pa$$word1
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    networks:
+      network1: null
+    ports:
+    - mode: ingress
+      target: 1433
+      published: "1433"
+      protocol: tcp
+    restart: always
+    volumes:
+    - type: volume
+      source: webapi_database_volume
+      target: /var/opt/mssql
+      volume: {}
+networks:
+  default:
+    name: dockercompose1693723854856352038_default
+  network1:
+    name: dockercompose1693723854856352038_network1
+    driver: bridge
+    ipam:
+      config:
+      - subnet: 172.23.0.0/24
+        gateway: 172.23.0.1
+volumes:
+  webapi_database_volume:
+    name: dockercompose1693723854856352038_webapi_database_volume
